@@ -6,7 +6,7 @@ bool isPositive (int n)
 {
     return n > 0;
 }
-
+// sanple
 
 int main()
 
