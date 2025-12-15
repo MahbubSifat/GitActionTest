@@ -23,5 +23,3 @@ int main()
 
     return 0;
 }
-
-// this is text
